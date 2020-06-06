@@ -1,5 +1,9 @@
 # dependencies
 /node_modules
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
 
 # misc
 .DS_Store
